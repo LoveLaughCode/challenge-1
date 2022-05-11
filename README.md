@@ -5,6 +5,10 @@ A website that offers search engine optimization services, online reputation man
 
 ## Built with 
 *HTML
-*CSS
+*CSS 
 
 ## Website
+https://lovelaughcode.github.io/challenge-1/
+
+## Contribution
+Made with <3 by Horisean
